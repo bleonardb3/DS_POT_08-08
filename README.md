@@ -19,8 +19,8 @@ The labs in this workshop will illustrate the myriad features included in Watson
 
 1. [Lab-5](Lab-5) - In this lab, you will use SparkML in Watson Studio to run simulated travel data through a machine learning algorithm, automatically tune the algorithm, and load the data into a DB2 Warehouse database.
 
-1. [Lab-7](Lab-6) -In this lab, you will use IBM's Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model based on the trafficking datasets. You will then deploy a web application that calls the Watson Machine Learning model.
+1. [Lab-6](Lab-6) -In this lab, you will use IBM's Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model based on the trafficking datasets. You will then deploy a web application that calls the Watson Machine Learning model.
 
-1. [Lab-6](Lab-7) -This lab will use the MNIST computer vision data set to train a convolutional neural network (CNN) model to recognize handwritten digits. The Watson Studio neural network flow editor, Watson Studio experiment builder and the Watson Machine Learning component will be used to build, train, save, deploy, and test the model.
+1. [Lab-7](Lab-7) -This lab will use the MNIST computer vision data set to train a convolutional neural network (CNN) model to recognize handwritten digits. The Watson Studio neural network flow editor, Watson Studio experiment builder and the Watson Machine Learning component will be used to build, train, save, deploy, and test the model.
 
-1. [Lab-4](Lab-8) - This lab will feature IBM's Adversarial Robustness Toolbox (ART). ART is a library dedicated to adversarial machine learning. Its purpose is to allow rapid crafting and analysis of attacks and defense methods for machine learning models. ART provides an implementation for many state-of-the-art methods for attacking and defending classifiers.
+1. [Lab-8](Lab-8) - This lab will feature IBM's Adversarial Robustness Toolbox (ART). ART is a library dedicated to adversarial machine learning. Its purpose is to allow rapid crafting and analysis of attacks and defense methods for machine learning models. ART provides an implementation for many state-of-the-art methods for attacking and defending classifiers.
