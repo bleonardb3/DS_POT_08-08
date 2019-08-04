@@ -17,5 +17,5 @@ Upon completing the lab, you will:
 
 ### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/DS_POT_07-24/raw/master/Lab-7/FHTAutoAIDevOps.pdf).
+[Instructions](https://github.com/bleonardb3/DS_POT_08-08/raw/master/Lab-6/FHTAutoAIDevOps2.0.pdf).
 
